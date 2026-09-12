@@ -1,20 +1,14 @@
 <div align="center">
 
-<br>
+### Aymen
+<sub>`mstg.sh` · `tryruni.com`</sub>
 
-# aymen
-
-**ml // infra**
----
-
-<br>
-
-## Get in touch.
-
-Open to interesting infrastructure problems and machine learning work.
-
-[LinkedIn](https://linkedin.com/in/bowran)
-
-<br>
+</div>
 
 ---
+
+I do a lot of things, engineering mostly.
+
+<div align="center">
+<sub>email me -> aymen@tryruni.com</sub>
+</div>
